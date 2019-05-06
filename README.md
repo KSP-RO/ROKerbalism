@@ -5,8 +5,8 @@
 #### Spin-off of Kerbalism (https://github.com/steamp0rt/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for.
 
 *Why would I install it?*
-Kerbalism allows a much more in-depth simulation of crewed AND uncrewed missions. You'll now have to deal with radiation, stress and hard drives, and much more. For more info, read the official kerbalism documentation [here](https://kerbalism.readthedocs.io/en/latest/).
 
+Kerbalism allows a much more in-depth simulation of crewed AND uncrewed missions. You'll now have to deal with radiation, stress and hard drives, and much more. For more info, read the official kerbalism documentation [here](https://kerbalism.readthedocs.io/en/latest/).
 If you're used to TAC-LS, this is way more realistic and won't allow you to make a manned Jupiter mission in a Mercury capsule without your astronaut going crazy. The radiation model is still not perfect and it will be a problem only on really long missions, but mind your shielding.
 
 If you're used to stock Kerbalism, this is still pretty different. Reliability and weather features are disabled, for the moment, but spacecrafts aren't customizable unless you use advanced near-future planetary habitats. Almost all historical parts have been given their real life support systems and recycling didn't come until the ISS era.
