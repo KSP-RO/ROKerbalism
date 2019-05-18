@@ -4,6 +4,15 @@
 
 #### Spin-off of Kerbalism (https://github.com/steamp0rt/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for.
 
+### Installation
+
+Use a new 1.6.1 install (important! Won't work in other versions);
+Install RealismOverhaul (for 1.6.1, download the master on GitHub until a release is out) and its dependencies;
+(Optional) Install RP-1 and its dependecies if you want to play in career;
+Download ROKerbalism and install the contents of the GameData folder in your KSP/GameData folder.
+
+----
+
 *Why would I install it?*
 
 Kerbalism allows a much more in-depth simulation of crewed AND uncrewed missions. You'll now have to deal with radiation, stress and hard drives, and much more. For more info, read the official kerbalism documentation [here](https://kerbalism.readthedocs.io/en/latest/).
