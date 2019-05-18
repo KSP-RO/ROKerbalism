@@ -6,10 +6,13 @@
 
 ### Installation
 
-Use a new 1.6.1 install (important! Won't work in other versions);
-Install RealismOverhaul (for 1.6.1, download the master on GitHub until a release is out) and its dependencies;
-(Optional) Install RP-1 and its dependecies if you want to play in career;
-Download ROKerbalism and install the contents of the GameData folder in your KSP/GameData folder.
+1. Use a new 1.6.1 install (important! Won't work in other versions);
+
+2. Install RealismOverhaul (for 1.6.1, download the master on GitHub until a release is out) and its dependencies;
+
+3. (Optional) Install RP-1 and its dependecies if you want to play in career;
+
+4. Download ROKerbalism and install the contents of the GameData folder in your KSP/GameData folder.
 
 ----
 
