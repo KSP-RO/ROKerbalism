@@ -2,7 +2,7 @@
 
 ### WARNING: THIS MOD IS STANDALONE! IF YOU WANT TO INSTALL IT, UNINSTALL EVERY OTHER VERSION OF KERBALISM!
 
-#### Spin-off of Kerbalism (https://github.com/steamp0rt/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for.
+#### Spin-off of Kerbalism (https://github.com/steamp0rt/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for, but it works fine for RO only too.
 
 ### Installation
 
