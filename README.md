@@ -12,7 +12,9 @@
 
 3. (Optional) Install RP-1 and its dependecies if you want to play in career;
 
-4. Download ROKerbalism and install the contents of the GameData folder in your KSP/GameData folder.
+4. **IMPORTANT** - DELETE ANYTHING KERBALISM RELATED IN YOUR GAMEDATA
+
+5. Download ROKerbalism and install the contents of the GameData folder in your KSP/GameData folder.
 
 ----
 
@@ -33,7 +35,7 @@ Supported mods:
 - FASA
 - ROCapsules
 - SXT
-- CxAerospace
+- CxAerospace#
 - RN Soyuz
 - RN US Probes (partial)
 - Bluedog Design Bureau (partial)
