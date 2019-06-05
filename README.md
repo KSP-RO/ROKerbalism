@@ -4,15 +4,15 @@
 
 ### Installation
 
-1.Use a new 1.6.1 install (won't work in 1.3, should work in 1.4-1.5);
+1. Use a new 1.6.1 install (won't work in 1.3, should work in 1.4-1.5);
 
-1.Install RealismOverhaul and its dependencies;
+1. Install RealismOverhaul and its dependencies;
 
-1.(Optional) Install RP-1 and its dependecies if you want to play in career;
+1. (Optional) Install RP-1 and its dependecies if you want to play in career;
 
-1.Install Kerbalism (core only, no KerbalismConfig)
+1. Install Kerbalism (core only, no KerbalismConfig)
 
-1.Download ROKerbalism and copy the contents of the GameData folder in your KSP/GameData folder.
+1. Download ROKerbalism and copy the contents of the GameData folder in your KSP/GameData folder.
 
 ----
 
