@@ -1,0 +1,31 @@
+{
+  "spec_version": "v1.18",
+	"license": "Unlicense",
+	"identifier": "Kerbalism-Config-RO",
+	"name": "Kerbalism - RealismOverhaul Config",
+	"abstract": "Realism Overhaul configuration for Kerbalism",
+	"provides": ["Kerbalism-Config"],
+	"depends": [{
+		"name": "Kerbalism"
+	}],
+	"conflicts": [{
+		"name": "Kerbalism-Config-Default"
+	}],
+	"install": [{
+			"file": "Kerbalism/System",
+			"install_to": "GameData/Kerbalism"
+		},
+		{
+			"file": "Kerbalism/ResourceConfigs",
+			"install_to": "GameData/Kerbalism"
+		},
+		{
+			"file": "Kerbalism/Settings.cfg",
+			"install_to": "GameData/Kerbalism"
+		},
+		{
+			"file": "Kerbalism/Profiles",
+			"install_to": "GameData/Kerbalism"
+		}
+	]
+}
