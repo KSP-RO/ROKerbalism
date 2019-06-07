@@ -2,7 +2,7 @@
 
 #### Config for Kerbalism (https://github.com/Kerbalism/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for, but it works fine for RO only too.
 
-### Installation
+### Manual Installation
 
 1. Use a new 1.6.1 install (won't work in 1.3, should work in 1.4-1.5);
 
@@ -10,9 +10,7 @@
 
 1. (Optional) Install RP-1 and its dependecies if you want to play in career;
 
-1. Install Kerbalism (core only, no KerbalismConfig)
-
-1. Download ROKerbalism and copy the contents of the GameData folder in your KSP/GameData folder.
+1. Install Kerbalism (from anywhere you want) and KerbalismConfig from ROKerbalism.
 
 ----
 
@@ -35,8 +33,9 @@ Supported mods:
 - FASA
 - ROCapsules
 - SXT
-- CxAerospace#
+- CxAerospace
 - RN Soyuz
 - RN US Probes (partial)
 - Bluedog Design Bureau (partial)
+- Tokamak Industries
 - More to come!
