@@ -22,6 +22,7 @@ If you're used to TAC-LS, this is way more realistic and won't allow you to make
 If you're used to stock Kerbalism, this is still pretty different. Reliability and weather features are disabled, for the moment, but spacecrafts aren't customizable unless you use advanced near-future planetary habitats. Almost all historical parts have been given their real life support systems and recycling didn't come until the ISS era.
 
 If you're also playing RP-1, congratulations! You'll get a bunch of features that weren't previously possible. Thanks to the new features that will be introduced with Kerbalism 3.0, all experiments now take time (needs HEAVY balancing); you can unlock life support subsystems and you can place them on old capsules to improve them. You'll also progress through various technologies that will reduce the weight of your life support system by a considreable amount, making crewed interplanetary more rewarding on the planning and progression side. More work is still needed for ISRU and recycling, though.
+#### For more information about science, read this [wiki page](https://github.com/Standecco/ROKerbalism/wiki)
 
 For ultimate realism, you'll want to install RealAntennas (not completed yet) or wait until RealismOverhaul completes its CommNet overhaul, which will massively improve transmission. With the current numbers, you might find communications to be unbalanced. RemoteTech was never tested, but you're free to try it if you want.
 
