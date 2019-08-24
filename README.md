@@ -1,6 +1,6 @@
 # ROKerbalism
 
-#### Config for Kerbalism (https://github.com/Kerbalism/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 integration, so that's what most of the configs are made for, but it works fine for RO only too.
+#### Config for [Kerbalism](https://github.com/Kerbalism/Kerbalism) made to work for Realism Overhaul. Its main focus is on RP-1 career integration for science and life support, but it works fine for a RO sandbox playthrough. If you want the new science system (and a balanced career progression), you'll also need RP-1 (available [here](https://github.com/KSP-RO/RP-0))
 
 ### Manual Installation
 
