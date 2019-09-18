@@ -20,3 +20,5 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 GameData/Kerbalism/MiniAVC.xml
+*.DS_Store
+*.pdb
