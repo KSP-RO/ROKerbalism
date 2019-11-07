@@ -4,7 +4,7 @@
 
 ### Manual Installation
 
-1. Use a new 1.6.1 install (won't work in 1.3, should work in 1.4-1.5);
+1. Use a new install (should work in any version currently supported by the official kerbalism core);
 
 1. Install RealismOverhaul and its dependencies;
 
