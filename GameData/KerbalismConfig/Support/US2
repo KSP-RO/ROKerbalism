@@ -253,6 +253,8 @@
 	@cost = 500
 	@entryCost = 10000
 	
+	@title = Universal Storage: Life Support Module
+	
 	%TechRequired = earlyLifeSupport
 	
 	!MODULE[TacGenericConverter] {}
