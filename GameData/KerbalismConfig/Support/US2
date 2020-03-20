@@ -673,7 +673,7 @@
 			name = Water Electrolysis
 			desc = Split <b>Water</b> into its <b>Hydrogen</b> and <b>Oxygen</b> components.
 			tech = longTermLifeSupport
-			mass = 0.05
+			mass = 0.1
 			cost = 500
 			MODULE
 			{
@@ -687,7 +687,7 @@
 			name = Sabatier Process
 			desc = <b>LqdHydrogen</b> and <b>CarbonDioxide</b> react with a nickel catalyst to produce <b>Water</b> and <b>LqdMethane</b>.
 			tech = advancedLifeSupport
-			mass = 0.05
+			mass = 0.1
 			cost = 500
 			MODULE
 			{
@@ -701,7 +701,7 @@
 			name = Waste Incinerator
 			desc = Produce <b>CarbonDioxide</b> and <b>Water</b> by combustion of <b>Waste</b> with <b>Oxygen</b>. Includes a small exhaust turbine generator. If needed <b>Water</b> will be vented to continue <b>CarbonDioxide</b> extraction.
 			tech = efficientLifeSupport
-			mass = 0.05
+			mass = 0.1
 			cost = 500
 			MODULE
 			{
@@ -729,7 +729,7 @@
 			name = GOX to LOX Converter
 			desc = Liquifies breathable <b>Oxygen</b> into <b>LqdOxygen</b>.
 			tech = lifeSupportISRU
-			mass = 0.05
+			mass = 0.1
 			cost = 200
 			MODULE
 			{
