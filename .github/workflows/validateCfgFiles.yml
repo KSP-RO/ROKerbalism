@@ -2,7 +2,7 @@ name: "Validate cfg files"
 
 on:
   push:
-    branches: [ master, CfgValidator ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
