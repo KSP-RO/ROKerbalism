@@ -1,0 +1,21 @@
+name: "Validate cfg files"
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  validate-cfg-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Validate config files
+        uses: KSP-CKAN/KSPMMCfgParser@master
