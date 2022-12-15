@@ -42,7 +42,7 @@ jobs:
           mkdir -v "${RELEASE_DIR}"
           echo "::set-output name=release-dir::${RELEASE_DIR}"
           cp -v -R "${GITHUB_WORKSPACE}/GameData" "${RELEASE_DIR}"
-          cp -v -R "${GITHUB_WORKSPACE}/LICENSE.md" "${RELEASE_DIR}/GameData/KerbalismConfig/LICENSE.md"
+          cp -v -R "${GITHUB_WORKSPACE}/LICENSE" "${RELEASE_DIR}/GameData/KerbalismConfig/LICENSE"
           cd ${RELEASE_DIR}
           zip -r ROKerbalism-${{ github.event.release.tag_name }}.zip GameData
         
