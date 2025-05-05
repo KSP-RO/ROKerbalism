@@ -26,7 +26,7 @@ If you're used to TAC-LS, this is way more realistic and won't allow you a crewe
 If you're used to stock Kerbalism, this is still pretty different. The Reliability feature is disabled, for the moment, but spacecraft aren't customizable unless you use advanced near-future planetary habitats. Almost all historical parts have been given their real life support systems and recycling doesn't come until the ISS era.
 
 If you're also playing RP-1, congratulations! You'll get a bunch of features that weren't previously possible. Thanks to the new features that have been introduced with Kerbalism 3.0, all experiments now take time; you can unlock life support subsystems and you can place them on old capsules to improve them. You'll also progress through various technologies that will reduce the weight of your life support system by a considerable amount, making crewed interplanetary more rewarding on the planning and progression side. 
-**For more information about science, read this [wiki page](https://github.com/Standecco/ROKerbalism/wiki/Science)**
+**For more information about science, read this [wiki page](https://github.com/KSP-RO/ROKerbalism/wiki/Science)**
 
 ### ISRU
 Thanks to Ballatik and his awesome research and configuration work (see [#54](https://github.com/Standecco/ROKerbalism/pull/54), [#64](https://github.com/Standecco/ROKerbalism/pull/64) and [#74](https://github.com/Standecco/ROKerbalism/pull/74) for more info), ROKerbalism is now on par with (and even surpasses) [RealISRU](https://github.com/KSP-RO/RealISRU). You can create complex resource chains to produce CH-4, Hydrazine, HTP, and more. 
