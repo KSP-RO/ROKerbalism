@@ -8,7 +8,7 @@
 
 1. Install RealismOverhaul and its dependencies by following the [official guide](https://github.com/KSP-RO/RP-0/wiki/Installation).
 
-1. (Recommended) Install [RP-1](https://github.com/KSP-RO/RP-0/releases) and its dependencies if you want to play in career.
+1. (Recommended) Install [RP-1](https://github.com/KSP-RO/RP-1/releases/latest) and its dependencies if you want to play in career.
 
 1. Really, give the RO/RP-1 installation guide a thorough read, it contains a lot of useful info.
 
